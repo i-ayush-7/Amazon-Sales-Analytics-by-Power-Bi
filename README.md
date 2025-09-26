@@ -11,9 +11,6 @@ This Power BI dashboard provides a highly professional, real-time analytical pla
 **Objective:**
 To deliver a single, centralized view of sales performance, product trends, and customer engagement, enabling stakeholders to quickly identify revenue drivers, understand seasonality, and make data-driven decisions regarding inventory and marketing strategies.
 
-**Design and Theme:**
-The dashboard is built using a high-contrast **dark theme** and a minimalist color palette, strictly utilizing the iconic **Amazon Orange (`#FF9900`) and White (`#FFFFFF`)** accents. This approach ensures maximum data readability, strong brand alignment, and a sophisticated, non-distracting user experience.
-
 **Key Components and Metrics:**
 
 1.  **Executive Overview (KPIs):** The dashboard provides an immediate snapshot of the business's health through four primary Key Performance Indicators:
