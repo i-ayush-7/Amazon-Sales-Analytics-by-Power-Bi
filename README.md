@@ -1,9 +1,5 @@
 # Amazon Sales Analytics by Power Bi
 
-This dashboard summary outlines the purpose, scope, and key features of the Amazon Sales Analytics tool shown in the visual.
-
-***
-
 ## Project Summary: Amazon Sales Analytics Dashboard
 This Power BI dashboard provides a highly professional, real-time analytical platform for monitoring and evaluating Amazon's sales and product performance across key metrics and time periods.
 
