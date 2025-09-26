@@ -7,7 +7,7 @@ This Power BI dashboard provides a highly professional, real-time analytical pla
 To deliver a single, centralized view of sales performance, product trends, and customer engagement, enabling stakeholders to quickly identify revenue drivers, understand seasonality, and make data-driven decisions regarding inventory and marketing strategies.
 
 ## Dashboard:
-![Dashboard]()
+![Dashboard](https://github.com/i-ayush-7/Amazon-Sales-Analytics-by-Power-Bi/blob/main/Amazon%20Sales%20Dashboard.png)
 
 **Key Components and Metrics:**
 
